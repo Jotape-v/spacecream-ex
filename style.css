@@ -349,9 +349,6 @@ main::before {
     line-height: 2.8rem;
   }
   
-  .footer a spam {
-    font-family: 'Open Sans', sans-serif;
-  }
 }
 
 @keyframes leftright {
