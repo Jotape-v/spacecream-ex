@@ -349,6 +349,11 @@ main::before {
     line-height: 2.8rem;
   }
   
+  .footer a span {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+  }
+  
 }
 
 @keyframes leftright {
