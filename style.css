@@ -132,6 +132,11 @@ main::before {
 
 }
 
+.content .card:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
 .content #small-1, #tall-1, #small-2, #tall-2, #small-3, #tall-3 {
   position: relative;
 }
